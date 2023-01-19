@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActividadRepaso</string>
+    <string name="Comenzar">Comenzar</string>
+    <string name="Finalizar">Finalizar</string>
+    <string name="name">Name</string>
+    <string name="escribe_tu_nombre">Escribe tu nombre</string>
+    <string name="introduce_tu_nombre">Introduce tu nombre</string>
+    <string name="batman">batman</string>
+</resources>
